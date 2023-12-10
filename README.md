@@ -29,4 +29,4 @@
 映射作者:超级
 软件作者::Sweatent
 如果觉得好用可以请作者喝茶哦~
-![赞助链接]([https://raw.githubusercontent.com/Sweatent/chmlfrp-fast/chmlfrp-fast/64b3f4ab1ddac507cc7d992c.png])
+![赞助链接](https://raw.githubusercontent.com/Sweatent/chmlfrp-fast/chmlfrp-fast/64b3f4ab1ddac507cc7d992c.png)
